@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, mi nombre es <a href="https://heylink.me/sevil_extrim/">FRAN</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/DcD1tt9.jpeg">
+<img src="https://imgur.com/a/8ZUpWOF">
 
 ### Proyectos actuales
 
