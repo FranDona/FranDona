@@ -5,8 +5,6 @@
 
 ### Proyectos actuales
 
-
-
 ### Tecnologias que uso
 
 <div align="center">
@@ -29,11 +27,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
 <a href="https://github.com/FranDona">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranDona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
-</a>
-</p>
 <img src="https://wakatime.com/share/@FranDona/e83c56ab-98bf-458f-8436-01c7af191d4a.svg"/>
-<figure><embed src="https://wakatime.com/share/@FranDona/ff046d0c-ec03-470e-b878-072e5fa38174.svg"></embed></figure>
