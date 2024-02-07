@@ -35,3 +35,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
+<img src="https://wakatime.com/share/@FranDona/e83c56ab-98bf-458f-8436-01c7af191d4a.svg"/>
