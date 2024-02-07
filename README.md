@@ -27,9 +27,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div>
-  <img  style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranDona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img  style="float:right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
+<div aling="center">
+  <img height="40%" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranDona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="40%" style="float:right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <img src="https://wakatime.com/share/@FranDona/12145427-d79b-469e-8389-9c6f2164be03.svg"/>
