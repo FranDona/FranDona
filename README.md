@@ -31,4 +31,4 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranDona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-<img src="https://wakatime.com/share/@FranDona/e83c56ab-98bf-458f-8436-01c7af191d4a.svg"/>
+<embed src="https://wakatime.com/share/@FranDona/12145427-d79b-469e-8389-9c6f2164be03.svg"></embed>
