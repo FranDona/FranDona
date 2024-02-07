@@ -36,3 +36,4 @@
 </a>
 </p>
 <img src="https://wakatime.com/share/@FranDona/e83c56ab-98bf-458f-8436-01c7af191d4a.svg"/>
+<figure><embed src="https://wakatime.com/share/@FranDona/ff046d0c-ec03-470e-b878-072e5fa38174.svg"></embed></figure>
