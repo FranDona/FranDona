@@ -28,7 +28,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div aling="center">
-  <img height="120m" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranDona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150m" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranDona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120m" style="float:right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
