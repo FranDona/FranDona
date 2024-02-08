@@ -32,4 +32,4 @@
   <img height="150m" style="float:right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<img src="https://wakatime.com/share/@FranDona/12145427-d79b-469e-8389-9c6f2164be03.svg"/>
+<img src="https://wakatime.com/share/@FranDona/f98974d9-be3f-4ebc-bd31-03d1959b6bcb.svg"/>
