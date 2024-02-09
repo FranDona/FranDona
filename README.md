@@ -3,6 +3,8 @@
 </div>
 <img src="https://i.imgur.com/hUU4q1f.jpeg">
 
+[![](https://visitcount.itsvg.in/api?id=FranDona&label=Visitas%20al%20perfil&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 ### Proyectos actuales
 
 ### Tecnologias que uso
