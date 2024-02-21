@@ -14,7 +14,7 @@
   <td width="33.3%">
     <h3 align="center">Documentación Symfony6</h3>
     <div align="center">
-      <a href="https://github.com/FranDona/SYMFONY_Doc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-4-1174989.png" height="260" alt="Documentación Symfony6"></a>
+      <a href="https://github.com/FranDona/SYMFONY_Doc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-4-1174989.png" alt="Documentación Symfony6"></a>
       <p>
         <a href="https://github.com/FranDona/SYMFONY_Doc" target="_blank">
           <img src="https://img.shields.io/badge/DOCUMENTACIÓN-383234?style=for-the-badge&logo=github&logoColor=white">
@@ -29,7 +29,7 @@
   <td width="33.3%">
     <h3 align="center">Documentación Vue.js</h3>
       <div align="center">
-      <a href="https://github.com/FranDona/VUE.JS_Doc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png" height="236" alt="Documentación Vue.js"></a>
+      <a href="https://github.com/FranDona/VUE.JS_Doc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png" alt="Documentación Vue.js"></a>
       <p>
         <a href="https://github.com/FranDona/VUE.JS_Doc" target="_blank">
           <img src="https://img.shields.io/badge/CÓDIGO-51885A?style=for-the-badge&logo=github&logoColor=white">
@@ -44,7 +44,7 @@
   <td width="33.3%">
     <h3 align="center">Documentación PHP</h3>
       <div align="center">
-      <a href="https://github.com/FranDona/PHP_Doc" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/5968/5968332.png" height="235" alt="Documentación PHP"></a>
+      <a href="https://github.com/FranDona/PHP_Doc" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/5968/5968332.png" alt="Documentación PHP"></a>
       <p>
         <a href="https://github.com/FranDona/PHP_Doc" target="_blank">
           <img src="https://img.shields.io/badge/C%C3%93DIGO-5C5B71?style=for-the-badge&logo=github&logoColor=black">
