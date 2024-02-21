@@ -7,7 +7,58 @@
 
 ### Proyectos actuales
 
-### Tecnologias que uso
+<table align="center">
+<tr>
+  <!-- DOCUMENTACIÓN SYMFONY6 -->
+  
+  <td width="33.3%">
+    <h3 align="center">Documentación Symfony6</h3>
+    <div align="center">
+      <a href="https://github.com/FranDona/SYMFONY_Doc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-4-1174989.png" height="260" alt="Documentación Symfony6"></a>
+      <p>
+        <a href="https://github.com/FranDona/SYMFONY_Doc" target="_blank">
+          <img src="https://img.shields.io/badge/DOCUMENTACIÓN-383234?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>Manual de utilización de symfony6. Crear proyectos, subirlos a GitHub y hacer CRUD. Esas son algunas de las cosas del manual. *Todavía sin terminar*</p>
+    </div>                                                                                 
+  </td>       
+
+  <!-- DOCUMENTACIÓN VUE.JS -->
+
+  <td width="33.3%">
+    <h3 align="center">Documentación Vue.js</h3>
+      <div align="center">
+      <a href="https://github.com/FranDona/VUE.JS_Doc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png" height="236" alt="Documentación Vue.js"></a>
+      <p>
+        <a href="https://github.com/FranDona/VUE.JS_Doc" target="_blank">
+          <img src="https://img.shields.io/badge/CÓDIGO-51885A?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>Manual completo de VUE.js con ejemplos. Desde la instalación vue en proyectos, hasta ejemplos prácticos para usar. </p>
+      </div>                                                                                  
+  </td>  
+
+  <!-- DOCUMENTACIÓN PHP -->
+
+  <td width="33.3%">
+    <h3 align="center">Documentación PHP</h3>
+      <div align="center">
+      <a href="https://github.com/FranDona/PHP_Doc" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/5968/5968332.png" height="235" alt="Documentación PHP"></a>
+      <p>
+        <a href="https://github.com/FranDona/PHP_Doc" target="_blank">
+          <img src="https://img.shields.io/badge/C%C3%93DIGO-5C5B71?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Manual de utilización de PHP con ejemplos. Creación de CRUD desde cero. **Todavía sin terminar**</p>
+      </div>                                                                                  
+  </td>  
+
+
+  
+</table>
+
+### Tecnologías que uso
 
 <div align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
