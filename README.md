@@ -20,7 +20,7 @@
           <img src="https://img.shields.io/badge/VER MANUAL-383234?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
-      <p>Manual de utilización de symfony6. Crear proyectos, subirlos a GitHub y hacer CRUD. Esas son algunas de las cosas del manual. *Todavía sin terminar*</p>
+      <p>Manual de utilización de symfony6. Crear proyectos, subirlos a GitHub y hacer CRUD. Esas son algunas de las cosas del manual. <strong>Todavía sin terminar</strong></p>
     </div>                                                                                 
   </td>       
 
@@ -62,7 +62,7 @@
   <td width="33.3%">
   <h3 align="center">Documentación JS</h3>
     <div align="center">
-    <a href="https://github.com/FranDona/JAVASCRIPT_Doc" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" width="256" alt="Documentación PHP"></a>
+    <a href="https://github.com/FranDona/JAVASCRIPT_Doc" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" width="256" alt="Documentación JS"></a>
     <p>
       <a href="https://github.com/FranDona/JAVASCRIPT_Doc" target="_blank">
         <img src="https://img.shields.io/badge/VER MANUAL-CCC414?style=for-the-badge&logo=github&logoColor=black">
