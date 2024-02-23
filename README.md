@@ -17,7 +17,7 @@
       <a href="https://github.com/FranDona/SYMFONY_Doc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-4-1174989.png" alt="Documentación Symfony6"></a>
       <p>
         <a href="https://github.com/FranDona/SYMFONY_Doc" target="_blank">
-          <img src="https://img.shields.io/badge/DOCUMENTACIÓN-383234?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/VER MANUAL-383234?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
       <p>Manual de utilización de symfony6. Crear proyectos, subirlos a GitHub y hacer CRUD. Esas son algunas de las cosas del manual. *Todavía sin terminar*</p>
@@ -32,7 +32,7 @@
       <a href="https://github.com/FranDona/VUE.JS_Doc" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png" alt="Documentación Vue.js"></a>
       <p>
         <a href="https://github.com/FranDona/VUE.JS_Doc" target="_blank">
-          <img src="https://img.shields.io/badge/CÓDIGO-51885A?style=for-the-badge&logo=github&logoColor=white">
+          <img src="https://img.shields.io/badge/VER MANUAL-51885A?style=for-the-badge&logo=github&logoColor=white">
         </a>
       </p>
       <p>Manual completo de VUE.js con ejemplos. Desde la instalación vue en proyectos, hasta ejemplos prácticos para usar. </p>
@@ -47,19 +47,48 @@
       <a href="https://github.com/FranDona/PHP_Doc" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/5968/5968332.png" alt="Documentación PHP"></a>
       <p>
         <a href="https://github.com/FranDona/PHP_Doc" target="_blank">
-          <img src="https://img.shields.io/badge/C%C3%93DIGO-5C5B71?style=for-the-badge&logo=github&logoColor=black">
+          <img src="https://img.shields.io/badge/VER MANUAL-5C5B71?style=for-the-badge&logo=github&logoColor=black">
         </a>
       </p>
-      <p>Manual de utilización de PHP con ejemplos. Creación de CRUD desde cero. **Todavía sin terminar**</p>
+      <p>Manual de utilización de PHP con ejemplos. Creación de CRUD desde cero. <strong>Todavía sin terminar</strong></p>
       </div>                                                                                  
   </td>  
+</tr>
 
+<!-- SEGUNDA FILA -->
+  <!-- DOCUMENTACIÓN JS -->
+
+<tr>
+  <td width="33.3%">
+  <h3 align="center">Documentación JS</h3>
+    <div align="center">
+    <a href="https://github.com/FranDona/JAVASCRIPT_Doc" target="_blank"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" width="256" alt="Documentación PHP"></a>
+    <p>
+      <a href="https://github.com/FranDona/JAVASCRIPT_Doc" target="_blank">
+        <img src="https://img.shields.io/badge/VER MANUAL-CCC414?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Documentacion de JavaScripot con ejemplos practicos. <strong>Todavía sin terminar</strong></p>
+    </div>                                                                                  
+  </td>
 
   
 </table>
 
-### Tecnologías que uso
 
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<div aling="center">
+  <img height="150m" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranDona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150m" style="float:right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<img src="https://wakatime.com/share/@FranDona/f98974d9-be3f-4ebc-bd31-03d1959b6bcb.svg"/>
+
+### Tecnologías que uso
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -75,14 +104,5 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white">  
 </div>
+<br><br><br><br>
 
-
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<div aling="center">
-  <img height="150m" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranDona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150m" style="float:right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<img src="https://wakatime.com/share/@FranDona/f98974d9-be3f-4ebc-bd31-03d1959b6bcb.svg"/>
