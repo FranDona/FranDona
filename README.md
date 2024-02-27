@@ -72,7 +72,20 @@
     </div>                                                                                  
   </td>
 
-  
+  <td width="33.3%">
+  <h3 align="center">Documentación JS</h3>
+    <div align="center">
+    <a href="https://github.com/FranDona/JAVASCRIPT_Doc" target="_blank"><img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/typescript-def.png" width="256" alt="Documentación TS"></a>
+    <p>
+      <a href="https://github.com/FranDona/TYPESCRIPT_Doc" target="_blank">
+        <img src="https://img.shields.io/badge/VER MANUAL-087EC7?style=for-the-badge&logo=github&logoColor=black">
+      </a>
+    </p>
+    <p>Documentacion de TypeScript. <strong>Todavía sin terminar</strong></p>
+    </div>                                                                                  
+  </td>
+</tr>
+
 </table>
 
 
