@@ -111,10 +111,16 @@
 
 <div aling="center">
   <img height="150m" style="float:left" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FranDona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150m" style="float:right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="150m" style="float:right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FranDona&layout=compact&langs_count=8&theme=tokyonight"/>  
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=FranDona&theme=tokyonight&border_radius=6&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  
+</div>
+<div aling="center">
+  <img src="https://wakatime.com/share/@FranDona/f98974d9-be3f-4ebc-bd31-03d1959b6bcb.svg"/>
 </div>
 
-<img src="https://wakatime.com/share/@FranDona/f98974d9-be3f-4ebc-bd31-03d1959b6bcb.svg"/>
+
 
 ### Tecnologías que uso
 <br>
