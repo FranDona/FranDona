@@ -1,11 +1,13 @@
 <div align="center">
-<h1 align="center">Hola, mi nombre es <a href="https://heylink.me/sevil_extrim/">FRAN</a> 👋</h1>
+<h1 align="center">Hola, mi nombre es FRAN 👋</h1>
 </div>
 <img src="https://i.imgur.com/hUU4q1f.jpeg">
 
 [![](https://visitcount.itsvg.in/api?id=FranDona&label=Visitas%20al%20perfil&icon=5&pretty=true)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-### Proyectos actuales
+<br>
+
+### Documentación y Manuales
 
 <table align="center">
 <tr>
@@ -103,9 +105,62 @@
   </td>
 </tr>
 </table>
+<br><br>
 
 
 
+
+### Proyectos actuales
+
+<table align="center">
+<tr>     
+
+
+  <td width="33.3%">
+    <h3 align="center">Proyecto PHP</h3>
+      <div align="center">
+      <a href="https://github.com/FranDona/PHP_Pro" target="_blank"><img src="https://static-00.iconduck.com/assets.00/php-icon-256x256-l1ift683.png" alt="Documentación Vue.js"></a>
+      <p>
+        <a href="https://github.com/FranDona/PHP_Pro" target="_blank">
+          <img src="https://img.shields.io/badge/VER PROYECTO-45224A?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+      <p>Pequeño proyecto en PHP en el que se puede gestionar vehículos de un concesionario usando BBDD MySQL</p>
+      </div>                                                                                  
+  </td>  
+
+  <!-- PROYECTO SYMFONY6 -->
+  
+  <td width="33.3%">
+    <h3 align="center">Proyecto Symfony6</h3>
+    <div align="center">
+      <a href="https://github.com/FranDona/SYMFONY_Pro" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-symfony-4-1174989.png" alt="Documentación Symfony6"></a>
+      <p>
+        <a href="https://github.com/FranDona/SYMFONY_Pro" target="_blank">
+          <img src="https://img.shields.io/badge/VER PROYECTO-383234?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </p>
+        <p>Pequeño proyecto en Symfony6 en el que se pueden gestionar reservas de un hotel usando BBDD MySQL</p>
+    </div>                                                                                 
+  </td>  
+
+  <!-- PROYECTO SPRING + ANGULAR -->
+
+  <td width="33.3%">
+    <h3 align="center">Proyecto Spring Boot + Angular</h3>
+      <div align="center">
+      <a href="https://github.com/FranDona/SpringBoot_Angular_Pro" target="_blank"><img src="https://raw.githubusercontent.com/Saka7/spring-boot-angular4-boilerplate/master/frontend/src/assets/images/favicon.png" width="250px" alt="Proyecto Spring + Angular"></a>
+      <p>
+        <a href="https://github.com/FranDona/SpringBoot_Angular_Pro" target="_blank">
+          <img src="https://img.shields.io/badge/VER PROYECTO-4D7E24?style=for-the-badge&logo=github&logoColor=black">
+        </a>
+      </p>
+      <p>Proyecto Spring Boot + Angular para gestionar la página Elex usando un CRUD completo de todas las entidades</p>
+      </div>                                                                                  
+  </td>
+</tr>
+</table>
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
