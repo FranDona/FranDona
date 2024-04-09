@@ -117,7 +117,7 @@
   
 </div>
 <div aling="center">
-  <img src="https://wakatime.com/share/@FranDona/f98974d9-be3f-4ebc-bd31-03d1959b6bcb.svg"/>
+  <img src="https://wakatime.com/share/@FranDona/3412159f-6959-49e1-9f40-9c98184681e0.png">
 </div>
 
 
