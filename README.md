@@ -115,7 +115,7 @@
     <a href="https://github.com/FranDona/SPRINGBOOT_Doc" target="_blank"><img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="256" alt="Documentación SpringBoot"></a>
     <p>
       <a href="https://github.com/FranDona/SPRINGBOOT_Doc" target="_blank">
-        <img src="https://img.shields.io/badge/VER MANUAL-FF2240?style=for-the-badge&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/VER MANUAL-48783F?style=for-the-badge&logo=github&logoColor=black">
       </a>
     </p>
     <p>Documentación de Angular. <strong>Todavía sin terminar</strong></p>
